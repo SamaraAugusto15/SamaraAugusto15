@@ -14,6 +14,6 @@ Olá! Meu nome é Samara e sou estudante de Ciência da Computação com foco em
 
 #### Contatos:
 <div style="display: inline" >
-<a href='www.linkedin.com/in/samaraaugusto'><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'> </a>
+<a href='https://www.linkedin.com/in/samaraaugusto/'><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'> </a>
 <!--<a href=''><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>-->
 </div>
