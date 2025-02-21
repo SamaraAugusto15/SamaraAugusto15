@@ -22,7 +22,7 @@ Olá! Meu nome é Samara e sou estudante de Ciência da Computação com foco em
 <br></br>
 <div aling='center'>
     <a href="https://github.com/SamaraAugusto15">
-        <img hspace='10' width='400px' src='https://github-readme-stats.vercel.app/api?username=SamaraAugusto15&show_icons=true&theme=tokyonight&include_all_commits=true'/>
+       <!-- <img hspace='10' width='400px' src='https://github-readme-stats.vercel.app/api?username=SamaraAugusto15&show_icons=true&theme=tokyonight&include_all_commits=true'/> -->
         <img hspace ='10' width='300px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=SamaraAugusto15&layout=compact&langs_count=7&theme=tokyonight'/>
     </a>
 </div>
