@@ -11,14 +11,14 @@ Olá! Meu nome é Samara e sou estudante de Ciência da Computação com foco em
     <img hspace='10' width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
     <img hspace='10' width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
     <img hspace='10' width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
-    <!--ESTUDANDO -> <img hspace='10' width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" /> -->
-</div>
+    <img hspace='10' width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
 
 ### Contatos:
 
 <div style="display: inline" >
-<a href='https://www.linkedin.com/in/samaraaugusto/'><img hspace='10' src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'> </a>
-<a href='mailto:samaraaugusto1115@gmail.com'><img hspace='10' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
+    <a href='https://www.linkedin.com/in/samaraaugusto/'><img hspace='10' src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'> </a>
+    <a href='mailto:samaraaugusto1115@gmail.com'><img hspace='10' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
+</div>
 
 ###
 
