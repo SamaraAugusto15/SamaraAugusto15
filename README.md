@@ -12,10 +12,7 @@ Olá! Meu nome é Samara e sou estudante de Ciência da Computação com foco em
   <img width="90" style="margin: 0 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
   <img width="90" style="margin: 0 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg"/>
   <img width="90" style="margin: 0 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"/>
-  <img width="90" style="margin: 0 15px;" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-  <img width="90" style="margin: 0 15px;" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
-          
+  <img width="90" style="margin: 0 15px;" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />      
 </p>
     
 ### Contatos:
