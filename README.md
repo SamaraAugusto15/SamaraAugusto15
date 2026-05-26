@@ -27,11 +27,11 @@ Olá! Meu nome é Samara e sou estudante de Ciência da Computação com foco em
 ###
 
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamaraAugusto15&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SamaraAugusto15&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamaraAugusto15&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SamaraAugusto15&layout=compact&theme=tokyonight" />
 </p>
 
 ###
