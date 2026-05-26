@@ -26,7 +26,6 @@ Olá! Meu nome é Samara e sou estudante de Ciência da Computação com foco em
 
 ###
 
-<div align="center">
   <div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=SamaraAugusto15&show_icons=true&theme=tokyonight" 
@@ -39,7 +38,6 @@ Olá! Meu nome é Samara e sou estudante de Ciência da Computação com foco em
     height="150" 
     alt="Top languages" 
   />
-</div>
 </div>
 
 ###
